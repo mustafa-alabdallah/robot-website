@@ -166,7 +166,6 @@
         }
 
         window.onload = displayRandomFact;
-        <img src="image.png" alt="Rocket and Cat" width="300">
     </script>
 </body>
 </html>
